@@ -1,3 +1,23 @@
-/Nydrle_ALG1/target/
-/Nydrle_Daniel_ALG1/nbproject/private/
-/Nydrle_Daniel_ALG1/build/
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+
+### NetBeans ###
+**/nbproject/
+build/
+dist/
+build.xml
+manifest.mf
+
+### Intellij ###
+.idea/**/
+out/
+
+#OS
+.DS_Store
